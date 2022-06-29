@@ -1,0 +1,4 @@
+#COMMANDS
+
+<b>/help</b>       - help
+<b>/start</b>      - start
